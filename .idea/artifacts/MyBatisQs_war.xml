@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MyBatisQs:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="MyBatisQs.war">
+      <element id="artifact" artifact-name="MyBatisQs:war exploded" />
+    </root>
+  </artifact>
+</component>
